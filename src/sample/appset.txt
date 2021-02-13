@@ -1,0 +1,3 @@
+Font Family used: Fira code, Khmer OS
+
+Color:  #001D4D, white
